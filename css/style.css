@@ -1,0 +1,12 @@
+.inline-block {
+	display : inline-block;
+}
+
+.color-grey {
+	color : gray !important;
+}
+
+.text-center {
+	text-align:center !important ;
+}
+
